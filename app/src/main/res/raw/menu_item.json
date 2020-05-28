@@ -1,0 +1,52 @@
+[
+  {
+    "name": "1- door escape practice mode",
+    "photo": "video_1.png",
+    "video": "http://data.aib.babylover.me/guide/granny/grannymode1.mp4"
+  },
+  {
+    "name": "2 - boat escape practice mode",
+    "photo": "video_2.png",
+    "video": "http://data.aib.babylover.me/guide/granny/grannymode2.mp4"
+  },
+  {
+    "name": "3 - door escape grandpa only",
+    "photo": "video_3.png",
+    "video": "http://data.aib.babylover.me/guide/granny/grannymode3.mp4"
+  },
+  {
+    "name": "4 - boat escape granny only",
+    "photo": "video_4.png",
+    "video": "http://data.aib.babylover.me/guide/granny/grannymode4.mp4"
+  },
+  {
+    "name": "5 - boat escape grandpa only",
+    "photo": "video_5.png",
+    "video": "http://data.aib.babylover.me/guide/granny/grannymode5.mp4"
+  },
+  {
+    "name": "6 - door escape granny only",
+    "photo": "video_6.png",
+    "video": "http://data.aib.babylover.me/guide/granny/grannymode6.mp4"
+  },
+  {
+    "name": "7 - door escape granny and grandpa",
+    "photo": "video_7.png",
+    "video": "http://data.aib.babylover.me/guide/granny/grannymode7.mp4"
+  },
+  {
+    "name": "8 - boat escape granny and grandpa",
+    "photo": "video_8.png",
+    "video": "http://data.aib.babylover.me/guide/granny/grannymode8.mp4"
+  },
+  {
+    "name": "How to kill Spiders",
+    "photo": "kill.png",
+    "video": "http://data.aib.babylover.me/guide/granny/grannykill.mp4"
+  },
+  {
+    "name": "Full Video Game",
+    "photo": "fullvideo.png",
+    "video": "http://data.aib.babylover.me/guide/granny/grannyfull.mp4"
+  }
+]

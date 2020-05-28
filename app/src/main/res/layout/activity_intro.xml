@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/introduction"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".IntroActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        />
+
+    <LinearLayout
+        android:layout_marginTop="50dp"
+        android:layout_weight="1"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorWhite"
+            android:text="Welcome to Granny: Chapter Two."
+            android:textStyle="bold"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorWhite"
+            android:text="The Granny horror house is made of three distinct floors - ground floor, upstairs and basement. There are a number of different stairways in the house (some of them hidden) that will get you to the various rooms. The main thing to keep in mind when moving around Granny's house is that all the levels wind around. This means rooms are laid out in a circular fashion and you can usually get to every room through a connected outer hallway or through doorways inside of the rooms. Each time you start a new game or day, you'll begin in an upstairs room, outside of which, are the stairs to the first or ground floor. Here is a detailed walkthrough of each room by Floor Level. You can also check out a video walkthrough at the bottom of the post."
+            android:textStyle="bold"
+            android:textSize="17sp"
+            />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/adMobView"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"/>
+
+</LinearLayout>
